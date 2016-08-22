@@ -1,5 +1,9 @@
 == README
 
+API I'm using:
+
+https://www.openhumans.org/api/public-data/?format=json
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
